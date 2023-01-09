@@ -41,7 +41,7 @@ This repository was tested with following environment:
 
 ## Clone our Repository
 ```bash
-git clone --recursive https://github.com/mindslab-ai/assem-vc
+git clone --recursive https://github.com/go-ggle/voco-vc
 cd assem-vc
 ```
 
